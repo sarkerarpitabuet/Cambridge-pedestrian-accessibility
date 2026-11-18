@@ -48,6 +48,3 @@ Cambridge, Massachusetts, USA.
 ## Results
 Project maps, statistical summaries, regression results, and QGIS outputs will be included here.
 
-## Author
-Civil Engineering Researcher
-

@@ -37,12 +37,12 @@ Cambridge, Massachusetts, USA.
 - QGIS
 
 7. Methodology
-1. Pedestrian network extraction and visualization.
-2. Pedestrian street segment analysis.
-3. Walking distance and travel time data collection.
-4. Linear regression modeling.
-5. Distance classification using QGIS.
-6. Shortest path analysis and route visualization.
+a. Pedestrian network extraction and visualization.
+b. Pedestrian street segment analysis.
+c. Walking distance and travel time data collection.
+d. Linear regression modeling.
+e. Distance classification using QGIS.
+f. Shortest path analysis and route visualization.
 
 8. Results
 Project maps, statistical summaries, regression results, and QGIS outputs will be included here.

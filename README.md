@@ -46,5 +46,7 @@ Cambridge, Massachusetts, USA.
 6. Shortest path analysis and route visualization.
 
 ## Results
-Project maps, statistical summaries, regression results, and QGIS outputs will be included here.
+Project maps, statistical summaries, regression results, and QGIS outputs will be included here. 
+
+![Stations to Destination Map](Stations%20to%20Destination%20map_Cambridge_QGIS.png)
 

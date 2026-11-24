@@ -2,7 +2,7 @@
 # Cambridge Pedestrian Accessibility Analysis
 
 ## Project Overview
-This project evaluates pedestrian connectivity, walking distances, estimated travel times, and demonstrates shortest pedestrian routes across Cambridge, Massachusetts, using Python, Machine Learning, and QGIS.
+This project evaluates pedestrian connectivity, walking distances, estimated travel times, and demonstrates shortest pedestrian routes across Cambridge, Massachusetts, using Python, Machine Learning, GeoPandas and QGIS.
 
 ## Objectives
 - Analyze the Cambridge pedestrian network.
